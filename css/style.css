@@ -269,5 +269,10 @@ img {
     border: 1px solid var(--gris);
 }
 .campo__field--textarea {
+
     height: 20rem;
+
+}
+.nueva-clase{
+    color: #784D3C
 }
